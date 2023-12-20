@@ -3,6 +3,10 @@
     {
       "source": "/",
       "destination": "https://www.linkedin.com/in/lefeeza/"
+    },
+    {
+      "source": "/:path(.*)",
+      "destination": "https://www.linkedin.com/in/lefeeza/"
     }
   ]
 }
